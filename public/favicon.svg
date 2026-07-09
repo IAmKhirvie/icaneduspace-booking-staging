@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="ICAN Eduspace">
+  <rect width="64" height="64" rx="14" fill="#07112f"/>
+  <path fill="#d9a72f" d="M10 55V31C10 18.85 19.85 9 32 9s22 9.85 22 22v24H42V31c0-5.52-4.48-10-10-10S22 25.48 22 31v24H10Z"/>
+  <path fill="#07112f" d="M25 55V31c0-3.87 3.13-7 7-7s7 3.13 7 7v24H25Z"/>
+  <circle cx="32" cy="40" r="5" fill="#d9a72f"/>
+  <path fill="#d9a72f" d="M18 55h28v6H18z"/>
+</svg>
